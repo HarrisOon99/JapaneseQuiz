@@ -1,0 +1,17 @@
+C:\Projects\C# Projects\JapaneseQuiz\JapaneseQuiz\bin\Debug\net8.0-windows8.0\JapaneseQuiz.exe
+C:\Projects\C# Projects\JapaneseQuiz\JapaneseQuiz\bin\Debug\net8.0-windows8.0\JapaneseQuiz.deps.json
+C:\Projects\C# Projects\JapaneseQuiz\JapaneseQuiz\bin\Debug\net8.0-windows8.0\JapaneseQuiz.runtimeconfig.json
+C:\Projects\C# Projects\JapaneseQuiz\JapaneseQuiz\bin\Debug\net8.0-windows8.0\JapaneseQuiz.dll
+C:\Projects\C# Projects\JapaneseQuiz\JapaneseQuiz\bin\Debug\net8.0-windows8.0\JapaneseQuiz.pdb
+C:\Projects\C# Projects\JapaneseQuiz\JapaneseQuiz\obj\Debug\net8.0-windows8.0\JapaneseQuiz.csproj.GenerateResource.cache
+C:\Projects\C# Projects\JapaneseQuiz\JapaneseQuiz\obj\Debug\net8.0-windows8.0\JapaneseQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Projects\JapaneseQuiz\JapaneseQuiz\obj\Debug\net8.0-windows8.0\JapaneseQuiz.AssemblyInfoInputs.cache
+C:\Projects\C# Projects\JapaneseQuiz\JapaneseQuiz\obj\Debug\net8.0-windows8.0\JapaneseQuiz.AssemblyInfo.cs
+C:\Projects\C# Projects\JapaneseQuiz\JapaneseQuiz\obj\Debug\net8.0-windows8.0\JapaneseQuiz.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\JapaneseQuiz\JapaneseQuiz\obj\Debug\net8.0-windows8.0\JapaneseQuiz.sourcelink.json
+C:\Projects\C# Projects\JapaneseQuiz\JapaneseQuiz\obj\Debug\net8.0-windows8.0\JapaneseQuiz.dll
+C:\Projects\C# Projects\JapaneseQuiz\JapaneseQuiz\obj\Debug\net8.0-windows8.0\refint\JapaneseQuiz.dll
+C:\Projects\C# Projects\JapaneseQuiz\JapaneseQuiz\obj\Debug\net8.0-windows8.0\JapaneseQuiz.pdb
+C:\Projects\C# Projects\JapaneseQuiz\JapaneseQuiz\obj\Debug\net8.0-windows8.0\JapaneseQuiz.genruntimeconfig.cache
+C:\Projects\C# Projects\JapaneseQuiz\JapaneseQuiz\obj\Debug\net8.0-windows8.0\ref\JapaneseQuiz.dll
+C:\Projects\C# Projects\JapaneseQuiz\JapaneseQuiz\obj\Debug\net8.0-windows8.0\JapaneseQuiz.QuizForm.resources
