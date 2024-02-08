@@ -15,3 +15,4 @@ C:\Projects\C# Projects\JapaneseQuiz\JapaneseQuiz\obj\Debug\net8.0-windows8.0\Ja
 C:\Projects\C# Projects\JapaneseQuiz\JapaneseQuiz\obj\Debug\net8.0-windows8.0\JapaneseQuiz.genruntimeconfig.cache
 C:\Projects\C# Projects\JapaneseQuiz\JapaneseQuiz\obj\Debug\net8.0-windows8.0\ref\JapaneseQuiz.dll
 C:\Projects\C# Projects\JapaneseQuiz\JapaneseQuiz\obj\Debug\net8.0-windows8.0\JapaneseQuiz.QuizForm.resources
+C:\Projects\C# Projects\JapaneseQuiz\JapaneseQuiz\obj\Debug\net8.0-windows8.0\JapaneseQuiz.Properties.Resources.resources

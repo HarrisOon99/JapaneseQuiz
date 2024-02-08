@@ -13,7 +13,7 @@ namespace JapaneseQuiz
         {
             public static List<JapaneseVocabulary> Vocabulary = new List<JapaneseVocabulary>
             {
-                new JapaneseVocabulary("往復", "Round　Trip", "おうふく"),
+                new JapaneseVocabulary("往復", "Round trip", "おうふく"),
                 new JapaneseVocabulary("選挙", "Election", "せんきょ"),
                 new JapaneseVocabulary("薬局", "Pharmacy", "やっきょく"),
                 new JapaneseVocabulary("太い", "Thick", "ふとい"),
