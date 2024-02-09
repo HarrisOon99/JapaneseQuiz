@@ -9,11 +9,13 @@ namespace JapaneseQuiz
         int CaseNum = 0;
         int QuestionNum = 1;
         int CorrectAns = 0;
-        String FuriAnswer = "";
+        String? FuriAnswer = "";
+        string filePath = @"C:\Projects\C# Projects\JapaneseQuiz\JapaneseQuiz\VocabularyList.xlsx";
 
         public QuizForm()
         {
             InitializeComponent();
+            Icon = new Icon("C:\\Projects\\C# Projects\\JapaneseQuiz\\JapaneseQuiz\\Properties\\Symbol.ico");
             QuestionLabel.Hide();
             AnswerBox.Hide();
             AnswerLabel.Hide();
@@ -34,7 +36,7 @@ namespace JapaneseQuiz
 
         private void NextQuestion()
         {
-            JapaneseVocabulary randomVocabulary = GetRandomVocabulary(Vocabulary.VocabularyList.Vocabulary);
+            JapaneseVocabulary randomVocabulary = GetRandomVocabulary(Vocabulary.ImportFromExcel(filePath));
 
             switch (CaseNum)
             {

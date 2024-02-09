@@ -85,7 +85,7 @@
             AnswerBox.BorderStyle = BorderStyle.None;
             AnswerBox.Font = new Font("Times New Roman", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
             AnswerBox.ForeColor = Color.FromArgb(64, 64, 64);
-            AnswerBox.Location = new Point(338, 193);
+            AnswerBox.Location = new Point(338, 192);
             AnswerBox.Name = "AnswerBox";
             AnswerBox.Size = new Size(100, 25);
             AnswerBox.TabIndex = 4;
