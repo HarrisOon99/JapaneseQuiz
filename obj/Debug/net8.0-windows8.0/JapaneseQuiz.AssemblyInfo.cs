@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JapaneseQuiz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+584322e497cf94440b07cc23a59d70342e379bdc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0140416f6ea19728bcb78e55a7eb0b37c1bcb15")]
 [assembly: System.Reflection.AssemblyProductAttribute("JapaneseQuiz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JapaneseQuiz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

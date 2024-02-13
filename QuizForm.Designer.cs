@@ -96,7 +96,7 @@
             ResultText.AutoSize = true;
             ResultText.BackColor = Color.Transparent;
             ResultText.Font = new Font("Times New Roman", 15.75F, FontStyle.Bold);
-            ResultText.Location = new Point(561, 331);
+            ResultText.Location = new Point(503, 361);
             ResultText.Name = "ResultText";
             ResultText.RightToLeft = RightToLeft.No;
             ResultText.Size = new Size(77, 24);
@@ -114,7 +114,7 @@
             IntroLabel.RightToLeft = RightToLeft.No;
             IntroLabel.Size = new Size(170, 31);
             IntroLabel.TabIndex = 6;
-            IntroLabel.Text = "Japanese 101";
+            IntroLabel.Text = "Japanese 404";
             IntroLabel.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // ScoreLabel
@@ -162,7 +162,7 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
-            BackgroundImage = Properties.Resources.pngtree_japanese_picture_background_material_picture_image_1136691;
+            BackgroundImage = Properties.Resources.Background;
             ClientSize = new Size(1197, 562);
             ControlBox = false;
             Controls.Add(IntroLabel2);

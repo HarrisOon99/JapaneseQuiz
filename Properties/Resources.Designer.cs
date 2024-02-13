@@ -63,9 +63,9 @@ namespace JapaneseQuiz.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap pngtree_japanese_picture_background_material_picture_image_1136691 {
+        internal static System.Drawing.Bitmap Background {
             get {
-                object obj = ResourceManager.GetObject("pngtree-japanese-picture-background-material-picture-image_1136691", resourceCulture);
+                object obj = ResourceManager.GetObject("Background", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
